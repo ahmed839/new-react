@@ -34,36 +34,36 @@ https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Ho
 - Diffrential Bundling - (run smoothly older browser)
 - Error Handling (give u better error Sugetion)
 - Tree Shaking - remove unused code for youn
-- // transpiled (this code is converted to the code that browser can uderstand)
-- // parcel is transpiled the code 
+- transpiled (this code is converted to the code that browser can uderstand)
+-  parcel is transpiled the code 
 
 # JSX
-//JSX - (transpiled before it reaches th JS Engine)
-// JSX code it is conveted to React.createment withe the help of Babel
-// JSX is looklike HTML
-// JSX is Not React 
-// in the curly braces {you can write javascript code}
-// in the JSX we can inject any javascript code in the curly braces{}
-// for Example if malicious attack coming from the API so JSX {} it will sanitization your  data whatever is comming and then pass it  (this attack known is cross side scripting)
+- JSX - (transpiled before it reaches th JS Engine)
+- JSX code it is conveted to React.createment withe the help of Babel
+- JSX is looklike HTML
+- JSX is Not React 
+- in the curly braces {you can write javascript code}
+- in the JSX we can inject any javascript code in the curly braces{}
+- for Example if malicious attack coming from the API so JSX {} it will sanitization your  data whatever is comming and then pass it  (this attack known is cross side scripting)
 
 
 
 # Babel
-// babel is a package manager
-// parcel is install the babel package when i install the parcel
-// babel is transpilng a code
-// is converting your JSX code to React.createElement end of the day
-// babel is such a good library
-// Babel is a open source javascript Compiler
+- babel is a package manager
+- parcel is install the babel package when i install the parcel
+- babel is transpilng a code
+- is converting your JSX code to React.createElement end of the day
+- babel is such a good library
+- Babel is a open source javascript Compiler
 
 # React Component
-// Class Based Component - OLD
-// Functional Component  - New - just a normal javascript Function wich return some JSX. and returns a bunch of react Element
-// whenever you need to component you can be reuse
+- Class Based Component - OLD
+- Functional Component  - New - just a normal javascript Function wich return some JSX. and returns a bunch of react Element
+- whenever you need to component you can be reuse
 
 # Props
-//props is just a normal argument to a function,
-// passing a prop to a component is just like passing argument to a function
+- props is just a normal argument to a function,
+- passing a prop to a component is just like passing argument to a function
 
 
 # Key
