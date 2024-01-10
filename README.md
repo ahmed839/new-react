@@ -63,6 +63,8 @@ https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Ho
 
 # Props
 - props is just a normal argument to a function,
+- Props are arguments passed into React components.
+- 
 - passing a prop to a component is just like passing argument to a function
 
 
@@ -81,8 +83,12 @@ import Component from "path";
 Export const Component
 import{Component} from "path";
 
+# React State 
+- whenever a react state update react will re-render my component 
+
 # React Hooks
 - (Normal Javascript utility Functions)
 - they are two very important Hooks
-- useState() - Superpowerful State variables in react js
-- useEffect()
+- useState() - Superpowerful State variables in react js. it a special varible it has 2 value first one  is our current state second is the function that is used to update our state.
+- useEffect() - useEffect accepts two arguments. The second argument is optional. useEffect(<function>, <dependency>)
+
